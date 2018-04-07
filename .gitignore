@@ -2,6 +2,7 @@
 build/
 dist/
 nbproject/
+src/*.fxml
 
 #class files #
 *.class
