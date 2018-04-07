@@ -1,1 +1,7 @@
+#ignoring these files #
+build/
+dist/
+nbproject/
 
+#class files #
+*.class
