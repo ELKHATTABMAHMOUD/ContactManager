@@ -7,3 +7,8 @@ src/m1/piu/*.fxml
 
 #class files #
 *.class
+
+/usr/bin/bash: q: command not found
+*.jar
+*.war
+*.ear
