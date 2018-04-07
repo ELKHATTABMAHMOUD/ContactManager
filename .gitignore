@@ -2,7 +2,8 @@
 build/
 dist/
 nbproject/
-src/*.fxml
+src/m1/piu/*.fxml
+*.xml
 
 #class files #
 *.class
